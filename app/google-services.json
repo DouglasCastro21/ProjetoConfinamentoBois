@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015985411937",
+    "firebase_url": "https://boigordo-3826f.firebaseio.com",
+    "project_id": "boigordo-3826f",
+    "storage_bucket": "boigordo-3826f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015985411937:android:8d119dd767137d08",
+        "android_client_info": {
+          "package_name": "kthin.douglas.com.boigordo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015985411937-43fld1tspidqftkk0m57jqsa6j2j0l94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kthin.douglas.com.boigordo",
+            "certificate_hash": "fb43d46ee4c4f930441837df53553fbd6fe49be4"
+          }
+        },
+        {
+          "client_id": "1015985411937-p6jjhlqcl4qr55df4qd9qdql0jvcpqsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT0ABbrzmHMCpRjR0nW6J5IZEypkoz2Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015985411937-p6jjhlqcl4qr55df4qd9qdql0jvcpqsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
